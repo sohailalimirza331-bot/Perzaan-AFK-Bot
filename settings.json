@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ilikecheese",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "ilikecheese",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "sohailandbrossmp.aternos.me:64294",
+    "port": 64294,
     "version": "1.21.1"
   },
   "position": {
